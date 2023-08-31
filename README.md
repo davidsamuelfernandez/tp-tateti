@@ -1,4 +1,4 @@
-# Trabajo Práctico 1: Ta-te-toro - Universidad Nacional de General Sarmiento
+# Trabajo Práctico: Ta-te-toro - Universidad Nacional de General Sarmiento
 
 ## Descripción
 Este es el Trabajo Práctico 1 para la asignatura Programación en la Universidad Nacional de General Sarmiento. El objetivo del trabajo es implementar una aplicación para que dos usuarios jueguen al ta-te-ti toroidal.
